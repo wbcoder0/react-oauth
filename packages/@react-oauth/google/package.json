@@ -1,6 +1,6 @@
 {
-  "name": "@react-oauth/google",
-  "version": "0.11.1",
+  "name": "@wbcoder0/react-oauth-google",
+  "version": "0.0.1",
   "description": "Google OAuth2 using Google Identity Services for React 🚀",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
@@ -17,19 +17,10 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": {
-    "name": "Mo'men Sherif",
-    "email": "momensherif.2019@gmail.com",
-    "url": "https://github.com/MomenSherif"
-  },
-  "homepage": "https://github.com/MomenSherif/react-oauth",
+  "author": "wbcoder0 and Mo'men Sherif",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MomenSherif/react-oauth"
-  },
-  "bugs": {
-    "url": "https://github.com/MomenSherif/react-oauth/issues",
-    "email": "momensherif.2019@gmail.com"
+    "url": "https://github.com/wbcoder0/react-oauth"
   },
   "keywords": [
     "react",
